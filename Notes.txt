@@ -50,6 +50,9 @@ mv currentNme newFileName both for moving and renaming
 -- rm startsWith*
 -- rm -r: recurrisive mode: delete all files and delete the dir
 
+-- rmdir: removes dir with empty directory
+rmdir *
+
 
 
 
