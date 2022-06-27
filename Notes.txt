@@ -3,3 +3,14 @@
 - ls -a : listing hiding files
 - ls -l : lists all info on the dir
 - ls -la: everything in the directory
+
+----
+- cd --
+
+- pushd /dir - for jumping to another directory
+- popd: returning to the previous directory
+
+
+
+
+
