@@ -20,4 +20,11 @@ su - user : without the - it will ask for password
  - chmod +x filename : making executable for everyone
  - for file: to execute a file (755) : for executing
  - for dir: to access the dir (644) : for executing
+-----
+---Killing a process---
+- watch: reruns a command every 2 sec
+- killall appName: for killing an app which isn't working properly on you machine
+- exit/ ctrl + D: for exiting from a bash session
+- clear: ctrl + l
+
 
