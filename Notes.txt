@@ -1,1 +1,5 @@
 - $ - regular user indication
+- ls - dir name or home/dir/dir - relative path
+- ls -a : listing hiding files
+- ls -l : lists all info on the dir
+- ls -la: everything in the directory
