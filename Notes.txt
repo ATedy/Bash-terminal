@@ -25,7 +25,12 @@
 - history
 
 -- Help: for getting help
--
+- whatis appName: gives a small definition
+- apropos: to ask commands that you haven't used
+- apropos time
+- Man: for manual
+- man man
+
 
 
 
