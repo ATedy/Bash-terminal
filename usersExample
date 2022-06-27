@@ -1,3 +1,6 @@
 - Users:
 - sudo -s: running as a root
 - exit for exiting from the root command above
+- su - switch user to user:
+su - user : without the - it will ask for password
+- you will get all the folders of the user
