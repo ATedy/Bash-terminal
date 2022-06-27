@@ -6,3 +6,5 @@ su - user : without the - it will ask for password
 - you will get all the folders of the user
 ------
 - users: telling who logged to the system
+- id : gives full info about the user and useful for figuring out a problem you're facing
+-
