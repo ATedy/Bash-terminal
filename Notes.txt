@@ -16,8 +16,16 @@
 
 - locate - for finding files using their names or part of it
  - you need to update the db first : sudo updatedb
- - lcate fileName
+ - l0cate fileName
 
+ --- which : for know if an app is installed
+ - which appName
+
+ -- History : keep tracks of the commands you used
+- history
+
+-- Help: for getting help
+-
 
 
 
