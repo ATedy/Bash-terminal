@@ -15,4 +15,9 @@ su - user : without the - it will ask for password
   - rwx: user
    rwx: group
    rwx: everyone
+------
+- ways of changing permission -
+ - chmod +x filename : making executable for everyone
+ - for file: to execute a file (755) : for executing
+ - for dir: to access the dir (644) : for executing
 
