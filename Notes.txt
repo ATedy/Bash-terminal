@@ -63,6 +63,7 @@ cat file1 file2: for combing 2 files
 - less: same as more but better using arrows, search, space bar
 -----
 - nano: in cmd text editor
+- ls -al / > lsout.txt: redirection, copying ls -al result into a new file
 
 
 

@@ -1,0 +1,22 @@
+total 10
+drwxr-xr-x  20 root  wheel   640 Jan  1  2020 .
+drwxr-xr-x  20 root  wheel   640 Jan  1  2020 ..
+lrwxr-xr-x   1 root  admin    36 Jan  1  2020 .VolumeIcon.icns -> System/Volumes/Data/.VolumeIcon.icns
+----------   1 root  admin     0 Jan  1  2020 .file
+drwxr-xr-x   2 root  wheel    64 Jan  1  2020 .vol
+drwxrwxr-x  28 root  admin   896 Jun 27 08:54 Applications
+drwxr-xr-x  67 root  wheel  2144 Mar  1 12:26 Library
+drwxr-xr-x@  9 root  wheel   288 Jan  1  2020 System
+drwxr-xr-x   6 root  admin   192 Jan  1  2020 Users
+drwxr-xr-x   3 root  wheel    96 Jun 27 08:38 Volumes
+drwxr-xr-x@ 38 root  wheel  1216 Jan  1  2020 bin
+drwxr-xr-x   2 root  wheel    64 Jan  1  2020 cores
+dr-xr-xr-x   4 root  wheel  4894 Jun 27 08:34 dev
+lrwxr-xr-x@  1 root  wheel    11 Jan  1  2020 etc -> private/etc
+lrwxr-xr-x   1 root  wheel    25 Jun 27 08:38 home -> /System/Volumes/Data/home
+drwxr-xr-x   4 root  wheel   128 Feb  7 11:29 opt
+drwxr-xr-x   6 root  wheel   192 Jan  1  2020 private
+drwxr-xr-x@ 65 root  wheel  2080 Jan  1  2020 sbin
+lrwxr-xr-x@  1 root  wheel    11 Jan  1  2020 tmp -> private/tmp
+drwxr-xr-x@ 11 root  wheel   352 Jan  1  2020 usr
+lrwxr-xr-x@  1 root  wheel    11 Jan  1  2020 var -> private/var
