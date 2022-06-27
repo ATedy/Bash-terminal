@@ -7,4 +7,12 @@ su - user : without the - it will ask for password
 ------
 - users: telling who logged to the system
 - id : gives full info about the user and useful for figuring out a problem you're facing
--
+-----
+
+---File permissions ---
+- example: - rwx rwx rwx (these bits represents permission in a file)
+  - r: read (4 bits), w: write(2 bits), x: execute (1 bits)
+  - rwx: user
+   rwx: group
+   rwx: everyone
+
