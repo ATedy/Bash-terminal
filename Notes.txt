@@ -55,7 +55,9 @@ rmdir *
 ---
 - cat: displaying file contents
 
-
+- cat >> fileName : putting contents into a file from cmd
+- cat: as concatination:
+cat file1 file2: for combing 2 files
 
 
 
