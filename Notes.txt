@@ -61,6 +61,8 @@ cat file1 file2: for combing 2 files
 ----
 - more: for displaying page bt page
 - less: same as more but better using arrows, search, space bar
+-----
+- nano: in cmd text editor
 
 
 
