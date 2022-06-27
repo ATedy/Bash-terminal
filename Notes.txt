@@ -10,6 +10,14 @@
 - pushd /dir - for jumping to another directory
 - popd: returning to the previous directory
 
+-- file --
+- file .fileName: for determining file type
+---
+
+- locate - for finding files using their names or part of it
+ - you need to update the db first : sudo updatedb
+ - lcate fileName
+
 
 
 
