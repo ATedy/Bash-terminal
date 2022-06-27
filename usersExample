@@ -1,0 +1,3 @@
+- Users:
+- sudo -s: running as a root
+- exit for exiting from the root command above
