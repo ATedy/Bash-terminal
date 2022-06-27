@@ -52,6 +52,9 @@ mv currentNme newFileName both for moving and renaming
 
 -- rmdir: removes dir with empty directory
 rmdir *
+---
+- cat: displaying file contents
+
 
 
 
