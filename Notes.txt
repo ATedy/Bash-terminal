@@ -31,6 +31,25 @@
 - Man: for manual
 - man man
 
+--------
+----- Working with file and directories
+- mkdir : for making a dir
+- mkdir dirName1 dirName2
+- touch: touch with already created file it update only the time
+- will create a new empty file creates
+
+- Copy file: cp (will copy within the dir you are in)
+- cp fileName newFileToCreate
+
+-- renaming a file and moving: mv
+mv currentNme newFileName both for moving and renaming
+
+-- Removing: rm: no undeleted
+- rm fileName
+-- rm * : remove all the files
+-- rm startsWith*
+-- rm -r: recurrisive mode: delete all files and delete the dir
+
 
 
 
